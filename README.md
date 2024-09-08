@@ -2,7 +2,7 @@ Orange hive mind is a society of cats that were once the smartest breed alive an
 
 # Fellowship introductions
 
-* [Celeste]({% link celeste.md %})
+* [Celeste]({{ site.baseurl }}{% link celeste.md %})
 * [Clippy]({% link clippy.md %})
 * [Crimson]({% link crimson.md %})
 * [Mooncake]({% link mooncake.md %})
