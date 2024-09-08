@@ -3,18 +3,18 @@ Orange hive mind is a society of cats that were once the smartest breed alive an
 # Fellowship introductions
 
 * [Celeste]({{ site.baseurl }}{% link celeste.md %})
-* [Clippy]({% link clippy.md %})
-* [Crimson]({% link crimson.md %})
-* [Mooncake]({% link mooncake.md %})
-* [Penny]({% link penny.md %})
-* [Percy]({% link percy.md %})
-* [Reina]({% link reina.md %})
+* [Clippy]({{ site.baseurl }}{% link clippy.md %})
+* [Crimson]({{ site.baseurl }}{% link crimson.md %})
+* [Mooncake]({{ site.baseurl }}{% link mooncake.md %})
+* [Penny]({{ site.baseurl }}{% link penny.md %})
+* [Percy]({{ site.baseurl }}{% link percy.md %})
+* [Reina]({{ site.baseurl }}{% link reina.md %})
 
 # Featuring...
-* [Fluffy]({% link fluffy.md %})
-* [Hypnotoad]({% link hypnotoad.md %})
-* [Pawkus]({% link pawkus.md %})
-* [Robin]({% link robin.md %})
+* [Fluffy]({{ site.baseurl }}{% link fluffy.md %})
+* [Hypnotoad]({{ site.baseurl }}{% link hypnotoad.md %})
+* [Pawkus]({{ site.baseurl }}{% link pawkus.md %})
+* [Robin]({{ site.baseurl }}{% link robin.md %})
 
 # What adventures await our fellowship?
 ![image](/assets/images/beast.jpg)
