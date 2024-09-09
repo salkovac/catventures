@@ -3,4 +3,4 @@
 
 ![image](/assets/robin.gif)
 
-Robin looks giving the hug of death to his enemies.
+Robin loves giving his enemies the hug of death.

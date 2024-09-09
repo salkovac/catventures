@@ -15,7 +15,7 @@ Orange hive mind is a society of cats that were once the smartest breed alive an
 # Featuring...
 * [Fluffy]({{ site.baseurl }}{% link fluffy.md %})
 * [Hypnotoad]({{ site.baseurl }}{% link hypnotoad.md %})
-* [Pawkus]({{ site.baseurl }}{% link pawkus.md %})
+* [Akos]({{ site.baseurl }}{% link pawkus.md %})
 * [Robin]({{ site.baseurl }}{% link robin.md %})
 
 # What adventures await our fellowship?
