@@ -2,7 +2,8 @@
 
 ![image](/assets/images/penny.jpg)
 
-![image](/assets/images/pennyMonster.jpg)
+![image](/assets/pennyMonster.gif)
+
 
 Sonorous voices coming from the woods, over the city skyline and into one Penelope Pitterbottom’s ears. She trots to the window, each step a source of ecstasy. 
 

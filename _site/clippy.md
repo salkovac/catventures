@@ -1,6 +1,8 @@
 # Clippy
 
-![image](/assets/images/clippyStars.jpg)
+<!-- ![image](/assets/images/clippyStars.jpg) -->
+![image](/assets/clippyStars.gif)
+<!-- <img src="/assets/clippyStars.gif" align="left"/> -->
 
 
 The stars speak to Clippy. 
